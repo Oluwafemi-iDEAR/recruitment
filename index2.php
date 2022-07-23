@@ -182,9 +182,9 @@
     <!-- Page Content -->
     <section class="py-5 bg-light-primary">
         <div class="container section-title">
-            <p>The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament No. 15 of 1965. In fulfilling it mission, the Institute has over the years certified 38,000 Chartered Accountants who are engaged in value creation in various sectors of the economy. Apart from being in professional practice, ICAN members are engaged in the three tiers of public service as well as the private sector.</p>
+            <p>The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament No. 15 of 1965. In fulfilling it mission, the Institute has over the years certified 38,000 Chartered Accountants who are engaged in value creation in various sectors of the economy. </p>
 
-            <p>ICAN expects to continue to distinguish itself by delivering exceptional services, while enhancing the growth and achievement of the personal and business aspirations of our members.</p>
+            <p>With a dynamic and growthcentric team, ICAN is deliberate in positioning itself for greater societal impact by delivering exceptional services, while enhancing the growth and achievement of the personal and business aspirations of our team and members. </p>
             <P><b>Ready to join our team?</b> View the openings below:</p>
 
         </div>
